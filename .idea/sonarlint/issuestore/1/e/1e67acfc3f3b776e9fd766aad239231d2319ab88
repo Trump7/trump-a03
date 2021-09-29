@@ -1,0 +1,18 @@
+
+S
+java:S1197"8Move the array designator from the variable to the type.(£‚Ñıÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(£‚Ñıÿÿÿÿ
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(ì¦‡Æ
+=
+java:S1659&""Declare "str2" on a separate line.(ÕÛ¬ƒÿÿÿÿÿ
+S
+java:S1197&"8Move the array designator from the variable to the type.(ÕÛ¬ƒÿÿÿÿÿ
+S
+java:S1197&"8Move the array designator from the variable to the type.(ÕÛ¬ƒÿÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(¢¶åì
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¡üĞÄ
+V	java:S1251"<This block of commented-out lines of code should be removed.(•¶Î¬üÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(ÊŸ±£
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í½¸Ÿøÿÿÿÿ

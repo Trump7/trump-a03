@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 public class Solution24 {
     //isAnagram returns a true or false given if both strings are anagrams
-    private static boolean isAnagram(String string1, String string2){
+    public static boolean isAnagram(String string1, String string2){
         //Declare variables for the length of both string's
         //int str1 = string1.length()
         int stringLength1 = string1.length();

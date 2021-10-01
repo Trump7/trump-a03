@@ -1,6 +1,9 @@
 /*
-    This program will take in two strings from the user
-    and figure out if they are anagrams.
+ *  UCF COP3330 Fall 2021 Assignment 3 Solutions
+ *  Copyright 2021 Matthew Trump
+ *
+ *  This program will take in two strings from the user
+ *  and figure out if they are anagrams.
  */
 package baseLine;
 

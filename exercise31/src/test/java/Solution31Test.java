@@ -1,3 +1,7 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 3 Solutions
+ *  Copyright 2021 Matt Trump
+ */
 import baseline.Solution31;
 import org.junit.jupiter.api.Test;
 
